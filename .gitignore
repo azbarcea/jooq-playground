@@ -28,5 +28,8 @@ hs_err_pid*
 log/
 target/
 
+# Local jooq database connection
+library.xml
+
 # Generated jook files
 src/main/java/com/example/jooq/**
